@@ -157,7 +157,7 @@ export const ListContainer = ({
           <ol 
             {...provided.droppableProps}
             ref={provided.innerRef}  
-            className="flex gap-x-3 h-full"
+            className="flex gap-x-3 h-full " 
           >
             {orderedData.map((list, index) => {
               return (
@@ -170,7 +170,7 @@ export const ListContainer = ({
             })}
             {provided.placeholder}
             <ListForm />
-            <div className="flex-shrink-0 w-1" />
+            <div className="flex-shrink-0 w-1 " />
           </ol>
         )}
       </Droppable>
