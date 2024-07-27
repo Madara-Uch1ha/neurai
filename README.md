@@ -36,7 +36,7 @@ To run NeurAI locally or contribute to its development, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/ShishiraB/neurai.git
+  git clone https://github.com/Madara-Uch1ha/neurai
    ```
 2. Install the required dependencies:
 
